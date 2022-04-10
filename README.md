@@ -1,1 +1,1 @@
-# SI_2022_lab1_196074
+# Petar Stevanoski 196074
