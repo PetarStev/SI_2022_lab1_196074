@@ -2,4 +2,4 @@ Coffe x 20
 Chocolate x 15
 Oil x 1
 Chips x 5
-Milk x 1
+Milk x 3
