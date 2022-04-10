@@ -1,5 +1,11 @@
 Coffe x 20
 Chocolate x 350
 Oil x 1
+<<<<<<< HEAD
 Chips x 5
 Milk x 3
+=======
+Pizza x 5
+Milk x 1
+Crackers x 2
+>>>>>>> 2
