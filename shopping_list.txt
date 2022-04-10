@@ -1,5 +1,5 @@
 Coffe x 20
-Chocolate x 15
+Chocolate x 350
 Oil x 1
 Chips x 5
 Milk x 3
