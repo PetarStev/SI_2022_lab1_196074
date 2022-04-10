@@ -1,0 +1,21 @@
+commit 5003ee568b80b14cf71fe7a26cd5f97f330d6a7a (HEAD -> 2, master, 1)
+Author: PetarStev <petar_stevanoski@yahoo.com>
+Date:   Sun Apr 10 21:13:09 2022 +0200
+
+    Add quantities to the items.
+
+commit 8db7faa632c39389468d46e310bf80d76f35a913
+Author: PetarStev <petar_stevanoski@yahoo.com>
+Date:   Sun Apr 10 21:08:03 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 0624570f99ebc22462d63331ebc0a28a757a0db8 (origin/master, origin/HEAD)
+Author: PetarStev <103382608+PetarStev@users.noreply.github.com>
+Date:   Sun Apr 10 20:41:53 2022 +0200
+
+    Update README.md
+
+commit d23ae18eac57eb4e812a32c930f4c86c9ed53e61
+Author: PetarStev <103382608+PetarStev@users.noreply.github.com>
+Date:   Sun Apr 10 20:40:40 2022 +0200
